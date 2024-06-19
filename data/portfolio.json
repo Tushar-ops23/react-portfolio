@@ -43,8 +43,7 @@
     },
   ],
 
-  "aboutpara": "I am a highly motivated and skilled DevOps Engineer with a passion for creating efficient and scalable solutions. I have good knowledge in Cloud Platforms, DevOps Tools, and deploying applications with a focus on automation and optimization. My experience spans working on projects involving React application deployment on AWS EC2 and Spring Boot application deployment on AWS EKS. Currently, I am working as a DevOps Engineer at BUOPSO Pvt Ltd, where I have implemented CI/CD pipelines and managed Kubernetes clusters. Previously, I interned at Factacy.ai, contributing to the deployment and optimization of cloud-based applications. With a strong foundation in Mechanical Engineering from MDU Jhajjar, I am well-equipped to tackle complex technical challenges and deliver world-class solutions.
-",
+  "aboutpara": "I am a highly motivated and skilled DevOps Engineer with a passion for creating efficient and scalable solutions. I have good knowledge in Cloud Platforms, DevOps Tools, and deploying applications with a focus on automation and optimization. My experience spans working on projects involving React application deployment on AWS EC2 and Spring Boot application deployment on AWS EKS. Currently, I am working as a DevOps Engineer at BUOPSO Pvt Ltd, where I have implemented CI/CD pipelines and managed Kubernetes clusters. Previously, I interned at Factacy.ai, contributing to the deployment and optimization of cloud-based applications. With a strong foundation in Mechanical Engineering from MDU Jhajjar, I am well-equipped to tackle complex technical challenges and deliver world-class solutions.",
   "resume": {
     "tagline": "👋  I'm a Devops Engineer.",
     "description": "I'm a DevOps Engineer with experience in cloud platforms, DevOps tools, and CI/CD pipelines.",
