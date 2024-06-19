@@ -1,1 +1,78 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Tushar Panchal",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Tushar Panchal - curious",
+  "headerTaglineThree": "Dev-Ops Engineer",
+  "headerTaglineFour": "Based in New Delhi, India.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/tushar-ops23"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/tushar-panchal23/"
+    },
+
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:tusharpanchal529@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Multi-Application Deployment on AWS EC2",
+      "description": "This project demonstrates the successful deployment of React, Angular, and Spring Boot applications on AWS EC2 instances. Each application is configured to operate under different deployment scenarios.",
+      "imageSrc": "https://private-user-images.githubusercontent.com/127124069/247284990-fde3d8e5-48fb-4417-b809-82a94cc821be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4MDAzNTIsIm5iZiI6MTcxODgwMDA1MiwicGF0aCI6Ii8xMjcxMjQwNjkvMjQ3Mjg0OTkwLWZkZTNkOGU1LTQ4ZmItNDQxNy1iODA5LTgyYTk0Y2M4MjFiZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOVQxMjI3MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZTUwODUwMmY2ZDAxZmQ4NzdkNDYwNDUwM2M5OTc0YWMyM2QxY2M3YWNjNWNmZTJiYmU2MzU0MTljNjgyNDc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.47WRq8v8ilRVnXLGvHBnko4W5jHZvM_TE_zGhj418BM",
+      "url": "https://github.com/Tushar-ops23/Heliverse_project/"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://yourprojecturl.com/"
+    },
+  ],
+
+  "aboutpara": "I am a highly motivated and skilled DevOps Engineer with a passion for creating efficient and scalable solutions. I have good knowledge in Cloud Platforms, DevOps Tools, and deploying applications with a focus on automation and optimization. My experience spans working on projects involving React application deployment on AWS EC2 and Spring Boot application deployment on AWS EKS. Currently, I am working as a DevOps Engineer at BUOPSO Pvt Ltd, where I have implemented CI/CD pipelines and managed Kubernetes clusters. Previously, I interned at Factacy.ai, contributing to the deployment and optimization of cloud-based applications. With a strong foundation in Mechanical Engineering from MDU Jhajjar, I am well-equipped to tackle complex technical challenges and deliver world-class solutions.
+",
+  "resume": {
+    "tagline": "👋  I'm a Devops Engineer.",
+    "description": "I'm a DevOps Engineer with experience in cloud platforms, DevOps tools, and CI/CD pipelines.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "February 2024 - Present",
+        "type": "Full Time",
+        "position": "DevOps Engineer at BUOPSO Pvt Ltd",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "June 2023 - September 2023",
+        "type": "Intern",
+        "position": "DevOps Engineer at Factacy.ai",
+        "bullets": "Worked on React application deployment on AWS EC2, Worked on Spring Boot application deployment on AWS EKS"
+      }
+    ],
+    "education": {
+      "universityName": "MDU Jhajjar",
+      "universityDate": "2021-2024",
+      "universityPara": "BTECH in Mechanical Engineering"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
+
+
